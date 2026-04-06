@@ -24,7 +24,8 @@ This project presents an interactive Power BI dashboard analyzing sales performa
 - Sales show an increasing trend after 2015
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+
+![Superstore Dashboard](dashboard.png)
 
 ## 📁 Files Included
 - `.pbix` file (Power BI dashboard)
